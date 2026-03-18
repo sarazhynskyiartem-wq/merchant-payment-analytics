@@ -1,0 +1,29 @@
+# PostgreSQL
+*.sql~
+*.backup
+*.dump
+*.log
+
+# Database exports 
+*.csv
+*.xlsx
+data/exports/
+
+# Python 
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+temp/
