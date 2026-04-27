@@ -76,8 +76,7 @@
 ### Джерела
 Національний банк України. Ринок платіжних карток в Україні
 
-[https://bank.gov.ua/ua/payments/operations-with-cards
-](https://data.gov.ua/dataset/e69526a2-26bb-4278-a49b-bdc4163cb662				)
+https://data.gov.ua/dataset/e69526a2-26bb-4278-a49b-bdc4163cb662				
 
 ### Структура репозиторію 
 ```
